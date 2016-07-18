@@ -3,7 +3,7 @@ var resetButton = document.querySelector('.js-reset')
 var body = document.querySelector('body')
 
 function randomColor() {
-  return Math.floor(Math.random() * (255)) + 1;
+  return Math.floor(Math.random() * (255));
 }
 
 randomButton.addEventListener('click', function() {
