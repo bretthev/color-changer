@@ -1,5 +1,5 @@
-var randomButton = document.querySelector('.random')
-var resetButton = document.querySelector('.reset')
+var randomButton = document.querySelector('.js-random')
+var resetButton = document.querySelector('.js-reset')
 var body = document.querySelector('body')
 
 function randomColor() {
