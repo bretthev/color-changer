@@ -14,5 +14,5 @@ randomButton.addEventListener('click', function() {
 });
 
 resetButton.addEventListener('click', function() {
-  body.setAttribute('style', 'background: white')
+  body.setAttribute('style', 'background: #FFFFFF')
 });
