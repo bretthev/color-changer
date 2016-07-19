@@ -5,6 +5,10 @@ html, body{
     height: 100%;
 }
 
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+
 body {
   align-items: center;
   background: #FFFFFF;
@@ -19,7 +23,6 @@ body {
   border-right: 10px solid #CC7FB5;
   border-left: 10px solid #CC7FB5;
   color: #FFFFFF;
-  font-family: 'Open Sans', sans-serif;
   font-size: 4vw;
   height: 20%;
   margin: 2%;
