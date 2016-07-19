@@ -7,7 +7,7 @@ html, body{
 
 body {
   align-items: center;
-  background: rgb(255,255,255);
+  background: #FFFFFF;
   display: flex;
   justify-content: center;
 }
@@ -18,10 +18,10 @@ body {
   border-bottom: 10px solid #B2479A;
   border-right: 10px solid #CC7FB5;
   border-left: 10px solid #CC7FB5;
-  color: white;
+  color: #FFFFFF;
   font-family: 'Open Sans', sans-serif;
   font-size: 4vw;
-  height: 15%;
+  height: 20%;
   margin: 2%;
   width: 30%;
 }
@@ -40,8 +40,9 @@ body {
     display: flex;
     flex-direction: column}
   .button {
-    width: 80%;
+    font-size: 2em;
     margin: 5%;
+    width: 80%;
   }
   .reset {
     height: 10%;
